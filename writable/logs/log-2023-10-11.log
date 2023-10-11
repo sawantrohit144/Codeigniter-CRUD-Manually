@@ -1,0 +1,51 @@
+CRITICAL - 2023-10-11 12:25:34 --> Class "App\Model\InsertModel" not found
+in APPPATH\Controllers\Insert.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Insert->insert()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Insert))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 12:27:05 --> Class "App\Model\InsertModel" not found
+in APPPATH\Controllers\Insert.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Insert->insert()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Insert))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 12:27:07 --> Class "App\Model\InsertModel" not found
+in APPPATH\Controllers\Insert.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Insert->insert()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Insert))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 12:27:16 --> Class "App\Model\InsertModel" not found
+in APPPATH\Controllers\Insert.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Insert->insert()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Insert))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 12:27:44 --> Class "App\Model\InsertModel" not found
+in APPPATH\Controllers\Insert.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Insert->insertdata()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Insert))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 12:28:43 --> Class "App\Model\InsertModel" not found
+in APPPATH\Controllers\Insert.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Insert->insertdata()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Insert))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-11 12:30:06 --> Class "App\Model\InsertModel" not found
+in APPPATH\Controllers\Insert.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Insert->insertdata()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Insert))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\operations\\public\\index.php')
+CRITICAL - 2023-10-11 12:32:29 --> syntax error, unexpected token ";"
+in APPPATH\Controllers\Insert.php on line 15.
+ 1 SYSTEMPATH\Router\Router.php(512): CodeIgniter\Router\AutoRouter->getRoute('insert/insertdata', 'get')
+ 2 SYSTEMPATH\Router\Router.php(208): CodeIgniter\Router\Router->autoRoute('insert/insertdata')
+ 3 SYSTEMPATH\CodeIgniter.php(800): CodeIgniter\Router\Router->handle('insert/insertdata')
+ 4 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
